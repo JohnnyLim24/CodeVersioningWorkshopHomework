@@ -1,0 +1,2 @@
+satu -> saya merasa belajar git itu sulit, tetapi ternyata mudah
+dua -> saya merasa git sangat membantu hidup saya 
