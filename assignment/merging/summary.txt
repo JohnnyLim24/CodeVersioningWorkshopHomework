@@ -1,8 +1,7 @@
-satu -> saya merasa belajar git itu sulit, tetapi ternyata mudah
-dua -> saya merasa git sangat membantu hidup saya 
-tiga -> saya mencoba mengerjakan soal yang saya buat sendiri
-empat -> saya berhasil mengerjakan soalnya
-lima -> saya tanya kalau saya ga bisa
-enam -> saya akhirnya paham semua materinya dan siap kerjain homework
-tujuh -> switch mirip seperti checkout
-delapan -> push buat masukin ke repository di github
+merging
+
+Merge pada GitHub adalah proses menggabungkan perubahan yang ada di satu cabang (branch) ke cabang lain, 
+seperti menggabungkan perubahan dari cabang fitur ke cabang utama (biasanya disebut main atau master). 
+GitHub menyediakan antarmuka web yang memungkinkan pengembang untuk melakukan merge dengan mudah tanpa perlu menggunakan terminal atau Git secara langsung.
+
+Fungsi Utama: Menggabungkan perubahan dari satu cabang ke cabang lain dalam repositori Git.
