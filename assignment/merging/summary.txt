@@ -4,3 +4,4 @@ tiga -> saya mencoba mengerjakan soal yang saya buat sendiri
 empat -> saya berhasil mengerjakan soalnya
 lima -> saya tanya kalau saya ga bisa
 enam -> saya akhirnya paham semua materinya dan siap kerjain homework
+tujuh -> switch mirip seperti checkout
