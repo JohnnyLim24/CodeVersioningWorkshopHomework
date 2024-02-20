@@ -2,3 +2,4 @@ satu -> saya merasa belajar git itu sulit, tetapi ternyata mudah
 dua -> saya merasa git sangat membantu hidup saya 
 tiga -> saya mencoba mengerjakan soal yang saya buat sendiri
 empat -> saya berhasil mengerjakan soalnya
+lima -> saya tanya kalau saya ga bisa
